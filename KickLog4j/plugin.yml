@@ -1,0 +1,3 @@
+name: KickLog4j
+main: com.amethyst.kicklog4j.KickLog4j
+version: 202.112.16
