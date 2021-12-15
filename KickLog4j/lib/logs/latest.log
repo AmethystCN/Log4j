@@ -1,0 +1,133 @@
+[17:32:26] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:32:26] [Server thread/INFO]: Loading properties
+[17:32:26] [Server thread/INFO]: Default game type: SURVIVAL
+[17:32:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:32:30] [Server thread/INFO]: Debug logging is disabled
+[17:32:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:32:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:32:30] [Server thread/INFO]: Generating keypair
+[17:32:32] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[17:32:32] [Server thread/INFO]: Using default channel type
+[17:32:34] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:32:34] [Server thread/INFO]: [Quick_information] Loading Quick_information v12.9.0
+[17:32:34] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
+[17:32:34] [Server thread/INFO]: [SbPlaceholder] Loading SbPlaceholder v1.0-SNAPSHOT
+[17:32:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:32:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:32:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:32:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:32:34] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:32:34] [Server thread/INFO]: Preparing level "world"
+[17:32:34] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:32:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:32:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:32:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:32:34] [Server thread/INFO]: View Distance: 10
+[17:32:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:32:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:32:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:32:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:32:34] [Server thread/INFO]: Random Lighting Updates: false
+[17:32:34] [Server thread/INFO]: Structure Info Saving: true
+[17:32:34] [Server thread/INFO]: Anti X-Ray: true
+[17:32:34] [Server thread/INFO]: 	Engine Mode: 1
+[17:32:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:32:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:32:34] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:32:34] [Server thread/INFO]: Mob Spawn Range: 4
+[17:32:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:32:34] [Server thread/INFO]: Max TNT Explosions: 100
+[17:32:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:32:34] [Server thread/INFO]: Max Entity Collisions: 8
+[17:32:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:32:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:32:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:32:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:32:34] [Server thread/INFO]: Clear tick list: false
+[17:32:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:32:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6790512434196662561)
+[17:32:35] [Server thread/INFO]: Preparing spawn area: 25%
+[17:32:36] [Server thread/INFO]: Preparing spawn area: 74%
+[17:32:37] [Server thread/INFO]: [Quick_information] Enabling Quick_information v12.9.0
+[17:32:37] [Server thread/INFO]:  
+[17:32:37] [Server thread/INFO]: Quick_information >  Plugin loaded!
+[17:32:37] [Server thread/INFO]:  
+[17:32:37] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
+[17:32:37] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:32:37] [Server thread/INFO]: [SbPlaceholder] Enabling SbPlaceholder v1.0-SNAPSHOT
+[17:32:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: s
+[17:32:37] [Server thread/INFO]: ¡ìe>> ¡ìf»¶Ó­Ê¹ÓÃ ¡ì6SbPlaceholder¡ìf , ²å¼þ×÷Õß£º Ð¡Ã÷(QQ:1360197420)
+[17:32:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:32:37] [Server thread/INFO]: Done (3.667s)! For help, type "help" or "?"
+[17:32:37] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:32:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[17:32:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[17:32:38] [Server thread/INFO]: 2[0;32;1m placeholder hooks successfully registered![m
+[17:32:42] [Server thread/INFO]: Plugins (3): [0;32;1mQuick_information[0;37;1m, [0;32;1mPlaceholderAPI[0;37;1m, [0;32;1mSbPlaceholder[m
+[17:33:45] [Thread-8/INFO]: UUID of player Asymey is 883394df-2a01-37d7-8a61-db4012e99a61
+[17:33:48] [Server thread/INFO]: Asymey[/127.0.0.1:14690] logged in with entity id 150 at ([world]14.82161448699502, 67.0, 399.0229014145259)
+[17:34:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:23] [Server thread/WARN]: Asymey moved too quickly! 7.3639864271107935,3.0,11.757775177218718 (7.3639864271107935, 3.0, 11.757775177218718)
+[17:34:26] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:29] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:33] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:36] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:37] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:37] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:45] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:50] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:50] [Server thread/INFO]: Asymey issued server command: /ping
+[17:34:59] [Server thread/INFO]: Asymey issued server command: /ping
+[17:35:15] [Server thread/INFO]: Asymey issued server command: /ping
+[17:35:58] [Server thread/INFO]: [0;33;1mThe change order can only be executed by the[0;31;1m player[0;33;1m![m
+[17:36:10] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:14] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:16] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:16] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:17] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:17] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:18] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:18] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:18] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:19] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:19] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:19] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:20] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:20] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:20] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:20] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:21] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:22] [Server thread/INFO]: Asymey issued server command: /ping
+[17:36:22] [Server thread/INFO]: Asymey issued server command: /ping
+[17:37:51] [Server thread/INFO]: Asymey issued server command: /ping
+[17:37:52] [Server thread/INFO]: Asymey issued server command: /ping
+[17:37:53] [Server thread/INFO]: Asymey issued server command: /ping
+[17:38:23] [Server thread/INFO]: Asymey issued server command: /ping
+[17:38:49] [Server thread/INFO]: [0;33;1mThe change order can only be executed by the[0;31;1m player[0;33;1m![m
+[17:38:52] [Server thread/INFO]: Asymey issued server command: /ping
+[17:39:30] [Server thread/INFO]: Stopping the server
+[17:39:30] [Server thread/INFO]: Stopping server
+[17:39:30] [Server thread/INFO]: [SbPlaceholder] Disabling SbPlaceholder v1.0-SNAPSHOT
+[17:39:30] [Server thread/INFO]: ¡ìe>> ¡ì6SbPlaceholder¡ìf ÒÑÐ¶ÔØ
+[17:39:30] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.10
+[17:39:30] [Server thread/INFO]: [Quick_information] Disabling Quick_information v12.9.0
+[17:39:30] [Server thread/INFO]:  
+[17:39:30] [Server thread/INFO]: Quick_information >  Plugin uninstalled!
+[17:39:30] [Server thread/INFO]:  
+[17:39:30] [Server thread/INFO]: Saving players
+[17:39:31] [Server thread/INFO]: Asymey lost connection: Server closed
+[17:39:31] [Server thread/INFO]: Asymey left the game.
+[17:39:31] [Server thread/INFO]: Saving worlds
+[17:39:31] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
