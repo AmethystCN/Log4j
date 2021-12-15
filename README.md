@@ -1,4 +1,4 @@
-!只能将后缀为Jar的文件放进plugins文件夹内
+!只能将后缀为Jar的文件放进plugins文件夹内,如果安装，请一次性安装完全版后缀为Jar的文件,以免发送BUG!
 
 
 *本项目采用开源项目https://github.com/jiongjionger/EastLandLog4jFixer 二次编辑！
