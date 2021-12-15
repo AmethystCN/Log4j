@@ -1,4 +1,4 @@
-*本项目采用开源项目https://github.com/jiongjionger/EastLandLog4jFixer二次编辑！
+*本项目采用开源项目https://github.com/jiongjionger/EastLandLog4jFixer 二次编辑！
 
 文件内必要的插件是
 PatchLog4j
