@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Quick_information:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quick_information_jar</output-path>
+    <root id="archive" name="Quick_information.jar">
+      <element id="module-output" name="Quick_information" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
