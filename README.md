@@ -1,3 +1,15 @@
+*本项目采用开源项目https://github.com/jiongjionger/EastLandLog4jFixer二次编辑！
+
+文件内必要的插件是
+PatchLog4j
+前置插件
+ProtocolLib
+*注意EastLandLog4jFixer-master仅仅为原作者的源代码！
+请勿将EastLandLog4jFixer-master放进plugins文件夹内
+
+
+
+
 #About AmethystCN
 #I am a very normal person!
 And how did you find me when I hid it so deep? 
